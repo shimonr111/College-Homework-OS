@@ -1,0 +1,320 @@
+[braude@Cent ex3]$ gcc -lpthread -Wall ex3.c -o ex3
+[braude@Cent ex3]$ ./ex3
+car: 2680000 time: 7 arrived to the garage
+car: 2680000 time: 7 started request in the garage
+car: 2680000 time: 7 started brake repair
+car: 2271963 time: 7 arrived to the garage
+car: 2271963 time: 7 started request in the garage
+car: 2271963 time: 7 started diagnostics
+car: 5767219 time: 7 arrived to the garage
+car: 5767219 time: 7 started request in the garage
+car: 5767219 time: 7 started diagnostics
+car: 8869011 time: 7 arrived to the garage
+car: 8869011 time: 7 started request in the garage
+car: 8869011 time: 7 started battery replacement
+car: 6548090 time: 7 arrived to the garage
+car: 6548090 time: 7 started request in the garage
+car: 6548090 time: 7 started battery replacement
+car: 1736057 time: 7 arrived to the garage
+car: 1736057 time: 7 started request in the garage
+car: 1736057 time: 7 started tire replacement
+car: 6321467 time: 8 arrived to the garage
+car: 6321467 time: 8 started request in the garage
+car: 6321467 time: 8 started alternator replacement
+car: 2271963 time: 8 completed diagnostics!
+car: 2271963 time: 8 started battery replacement
+car: 5767219 time: 8 completed diagnostics!
+car: 5767219 time: 8 service complete.
+car: 3484460 time: 8 arrived to the garage
+car: 3484460 time: 8 started request in the garage
+car: 3484460 time: 8 started paint job
+car: 9678981 time: 8 arrived to the garage
+car: 9678981 time: 8 started request in the garage
+car: 9678981 time: 8 started brake repair
+car: 8769446 time: 8 arrived to the garage
+car: 8769446 time: 8 started request in the garage
+car: 8769446 time: 8 started air filter change
+car: 8869011 time: 8 completed battery replacement!
+car: 8869011 time: 8 started exhaust replacement
+car: 2829569 time: 8 arrived to the garage
+car: 2829569 time: 8 started request in the garage
+car: 2829569 time: 8 started diagnostics
+car: 3871619 time: 8 arrived to the garage
+car: 3871619 time: 8 started request in the garage
+car: 3871619 time: 8 started transmission replacement
+car: 6400629 time: 8 arrived to the garage
+car: 6400629 time: 8 started request in the garage
+car: 6400629 time: 8 started battery replacement
+car: 6548090 time: 8 completed battery replacement!
+car: 6548090 time: 8 started engine replacement
+car: 2986092 time: 8 arrived to the garage
+car: 2986092 time: 8 started request in the garage
+car: 2986092 time: 8 started battery replacement
+car: 1736057 time: 8 completed tire replacement!
+car: 1736057 time: 8 started shock absorber replacement
+car: 2680000 time: 8 completed brake repair!
+car: 2271963 time: 9 completed battery replacement!
+car: 2271963 time: 9 started brake repair
+car: 8769446 time: 9 completed air filter change!
+car: 2829569 time: 9 completed diagnostics!
+car: 8404921 time: 9 arrived to the garage
+car: 8404921 time: 9 started request in the garage
+car: 6400629 time: 9 completed battery replacement!
+car: 6400629 time: 9 service complete.
+car: 2986092 time: 9 completed battery replacement!
+car: 2986092 time: 9 service complete.
+car: 6321467 time: 10 completed alternator replacement!
+car: 6321467 time: 10 started flat tire repair
+car: 9678981 time: 10 completed brake repair!
+car: 9678981 time: 10 started shock absorber replacement
+car: 8788107 time: 10 arrived to the garage
+car: 8788107 time: 10 started request in the garage
+car: 8788107 time: 10 started diagnostics
+car: 8869011 time: 10 completed exhaust replacement!
+car: 8869011 time: 10 started oil change
+car: 8769446 time: 10 started exhaust replacement
+car: 8981456 time: 10 arrived to the garage
+car: 8981456 time: 10 started request in the garage
+car: 1736057 time: 10 completed shock absorber replacement!
+car: 1736057 time: 10 started diagnostics
+car: 8404921 time: 10 started oil change
+car: 2829569 time: 10 started flat tire repair
+car: 6930079 time: 11 arrived to the garage
+car: 6930079 time: 11 started request in the garage
+car: 6762042 time: 11 arrived to the garage
+car: 6762042 time: 11 started request in the garage
+car: 6321467 time: 11 completed flat tire repair!
+car: 8772512 time: 11 arrived to the garage
+car: 8772512 time: 11 started request in the garage
+car: 2271963 time: 11 completed brake repair!
+car: 2271963 time: 11 started timing belt replacement
+car: 2115240 time: 11 arrived to the garage
+car: 2115240 time: 11 started request in the garage
+car: 2115240 time: 11 started air filter change
+car: 6865753 time: 11 arrived to the garage
+car: 6865753 time: 11 started request in the garage
+car: 8284455 time: 11 arrived to the garage
+car: 8284455 time: 11 started request in the garage
+car: 7993193 time: 11 arrived to the garage
+car: 7993193 time: 11 started request in the garage
+car: 7871344 time: 11 arrived to the garage
+car: 7871344 time: 11 started request in the garage
+car: 8788107 time: 11 completed diagnostics!
+car: 8917519 time: 11 arrived to the garage
+car: 8917519 time: 11 started request in the garage
+car: 6202984 time: 11 arrived to the garage
+car: 6202984 time: 11 started request in the garage
+car: 6202984 time: 11 started diagnostics
+car: 7265954 time: 11 arrived to the garage
+car: 7265954 time: 11 started request in the garage
+car: 8869011 time: 11 completed oil change!
+car: 8869011 time: 11 service complete.
+car: 1736057 time: 11 completed diagnostics!
+car: 1736057 time: 11 started air filter change
+car: 8404921 time: 11 completed oil change!
+car: 8404921 time: 11 service complete.
+car: 2829569 time: 11 completed flat tire repair!
+car: 2829569 time: 11 service complete.
+car: 8981456 time: 11 started flat tire repair
+car: 2846581 time: 12 arrived to the garage
+car: 2846581 time: 12 started request in the garage
+car: 3706821 time: 12 arrived to the garage
+car: 3706821 time: 12 started request in the garage
+car: 3706821 time: 12 started paint job
+car: 1152983 time: 12 arrived to the garage
+car: 1152983 time: 12 started request in the garage
+car: 1785849 time: 12 arrived to the garage
+car: 1785849 time: 12 started request in the garage
+car: 1785849 time: 12 started headlights adjustment
+car: 7013083 time: 12 arrived to the garage
+car: 7013083 time: 12 started request in the garage
+car: 9002233 time: 12 arrived to the garage
+car: 9002233 time: 12 started request in the garage
+car: 2115240 time: 12 completed air filter change!
+car: 2115240 time: 12 started headlights adjustment
+car: 3484460 time: 12 completed paint job!
+car: 3484460 time: 12 service complete.
+car: 9002233 time: 12 started paint job
+car: 9678981 time: 12 completed shock absorber replacement!
+car: 6202984 time: 12 completed diagnostics!
+car: 8769446 time: 12 completed exhaust replacement!
+car: 8769446 time: 12 service complete.
+car: 6865753 time: 12 started flat tire repair
+car: 3871619 time: 12 completed transmission replacement!
+car: 3871619 time: 12 started shock absorber replacement
+car: 6548090 time: 12 completed engine replacement!
+car: 6548090 time: 12 service complete.
+car: 7993193 time: 12 started brake repair
+car: 6321467 time: 12 started transmission replacement
+car: 2680000 time: 12 started engine replacement
+car: 1736057 time: 12 completed air filter change!
+car: 1736057 time: 12 service complete.
+car: 8981456 time: 12 completed flat tire repair!
+car: 8981456 time: 12 started tire replacement
+car: 3153895 time: 13 arrived to the garage
+car: 3153895 time: 13 started request in the garage
+car: 9896689 time: 13 arrived to the garage
+car: 9896689 time: 13 started request in the garage
+car: 9896689 time: 13 started air filter change
+car: 8189266 time: 13 arrived to the garage
+car: 8189266 time: 13 started request in the garage
+car: 7569025 time: 13 arrived to the garage
+car: 7569025 time: 13 started request in the garage
+car: 6302936 time: 13 arrived to the garage
+car: 6302936 time: 13 started request in the garage
+car: 6302936 time: 13 started battery replacement
+car: 9254462 time: 13 arrived to the garage
+car: 9254462 time: 13 started request in the garage
+car: 1785849 time: 13 completed headlights adjustment!
+car: 1785849 time: 13 started air filter change
+car: 2115240 time: 13 completed headlights adjustment!
+car: 6865753 time: 13 completed flat tire repair!
+car: 6865753 time: 13 started diagnostics
+car: 8788107 time: 13 started alternator replacement
+car: 8981456 time: 13 completed tire replacement!
+car: 8981456 time: 13 started air filter change
+car: 8917519 time: 13 started timing belt replacement
+car: 9896689 time: 14 completed air filter change!
+car: 6302936 time: 14 completed battery replacement!
+car: 2271963 time: 14 completed timing belt replacement!
+car: 2271963 time: 14 service complete.
+car: 7265954 time: 14 started tire replacement
+car: 1785849 time: 14 completed air filter change!
+car: 1785849 time: 14 service complete.
+car: 6865753 time: 14 completed diagnostics!
+car: 6865753 time: 14 service complete.
+car: 3871619 time: 14 completed shock absorber replacement!
+car: 3871619 time: 14 service complete.
+car: 2846581 time: 14 started shock absorber replacement
+car: 7993193 time: 14 completed brake repair!
+car: 7993193 time: 14 service complete.
+car: 1152983 time: 14 started flat tire repair
+car: 8981456 time: 14 completed air filter change!
+car: 7265954 time: 15 completed tire replacement!
+car: 7265954 time: 15 service complete.
+car: 7013083 time: 15 started shock absorber replacement
+car: 8788107 time: 15 completed alternator replacement!
+car: 8788107 time: 15 started brake repair
+car: 1152983 time: 15 completed flat tire repair!
+car: 1152983 time: 15 started battery replacement
+car: 8284455 time: 15 started tire replacement
+car: 3706821 time: 16 completed paint job!
+car: 3706821 time: 16 started battery replacement
+car: 9678981 time: 16 started paint job
+car: 9002233 time: 16 completed paint job!
+car: 9002233 time: 16 service complete.
+car: 2846581 time: 16 completed shock absorber replacement!
+car: 2846581 time: 16 started timing belt replacement
+car: 6321467 time: 16 completed transmission replacement!
+car: 6321467 time: 16 started battery replacement
+car: 2680000 time: 16 completed engine replacement!
+car: 2680000 time: 16 started exhaust replacement
+car: 1152983 time: 16 completed battery replacement!
+car: 1152983 time: 16 started paint job
+car: 8284455 time: 16 completed tire replacement!
+car: 8284455 time: 16 service complete.
+car: 3153895 time: 16 started exhaust replacement
+car: 8772512 time: 16 started shock absorber replacement
+car: 6930079 time: 16 started transmission replacement
+car: 8917519 time: 16 completed timing belt replacement!
+car: 8917519 time: 16 service complete.
+car: 9254462 time: 16 started alternator replacement
+car: 3706821 time: 17 completed battery replacement!
+car: 3706821 time: 17 service complete.
+car: 7013083 time: 17 completed shock absorber replacement!
+car: 8788107 time: 17 completed brake repair!
+car: 8788107 time: 17 service complete.
+car: 6321467 time: 17 completed battery replacement!
+car: 6321467 time: 17 service complete.
+car: 2680000 time: 18 completed exhaust replacement!
+car: 2680000 time: 18 started shock absorber replacement
+car: 3153895 time: 18 completed exhaust replacement!
+car: 3153895 time: 18 service complete.
+car: 8772512 time: 18 completed shock absorber replacement!
+car: 8772512 time: 18 started headlights adjustment
+car: 6762042 time: 18 started brake repair
+car: 9254462 time: 18 completed alternator replacement!
+car: 9254462 time: 18 started battery replacement
+car: 2846581 time: 19 completed timing belt replacement!
+car: 2846581 time: 19 started alternator replacement
+car: 8772512 time: 19 completed headlights adjustment!
+car: 9254462 time: 19 completed battery replacement!
+car: 9678981 time: 20 completed paint job!
+car: 1152983 time: 20 completed paint job!
+car: 1152983 time: 20 service complete.
+car: 6930079 time: 20 completed transmission replacement!
+car: 6930079 time: 20 started alternator replacement
+car: 9896689 time: 20 started transmission replacement
+car: 2680000 time: 20 completed shock absorber replacement!
+car: 2680000 time: 20 service complete.
+car: 6202984 time: 20 started tire replacement
+car: 6762042 time: 20 completed brake repair!
+car: 6762042 time: 20 started flat tire repair
+car: 2846581 time: 21 completed alternator replacement!
+car: 2846581 time: 21 started exhaust replacement
+car: 6202984 time: 21 completed tire replacement!
+car: 6202984 time: 21 service complete.
+car: 6762042 time: 21 completed flat tire repair!
+car: 6762042 time: 21 service complete.
+car: 9254462 time: 21 started timing belt replacement
+car: 8981456 time: 21 started brake repair
+car: 6930079 time: 22 completed alternator replacement!
+car: 6930079 time: 22 started diagnostics
+car: 2115240 time: 22 started exhaust replacement
+car: 2846581 time: 23 completed exhaust replacement!
+car: 2846581 time: 23 service complete.
+car: 7569025 time: 23 started alternator replacement
+car: 6930079 time: 23 completed diagnostics!
+car: 8981456 time: 23 completed brake repair!
+car: 8981456 time: 23 service complete.
+car: 8772512 time: 23 started oil change
+car: 9678981 time: 23 started flat tire repair
+car: 9896689 time: 0 completed transmission replacement!
+car: 9896689 time: 0 service complete.
+car: 6930079 time: 0 started exhaust replacement
+car: 6302936 time: 0 started engine replacement
+car: 7013083 time: 0 started transmission replacement
+car: 2115240 time: 0 completed exhaust replacement!
+car: 2115240 time: 0 started tire replacement
+car: 9254462 time: 0 completed timing belt replacement!
+car: 9254462 time: 0 service complete.
+car: 8189266 time: 0 started exhaust replacement
+car: 8772512 time: 0 completed oil change!
+car: 9678981 time: 0 completed flat tire repair!
+car: 9678981 time: 0 service complete.
+car: 8772512 time: 0 started flat tire repair
+car: 7569025 time: 1 completed alternator replacement!
+car: 2115240 time: 1 completed tire replacement!
+car: 2115240 time: 1 service complete.
+car: 8772512 time: 1 completed flat tire repair!
+car: 8772512 time: 1 service complete.
+car: 6930079 time: 2 completed exhaust replacement!
+car: 6930079 time: 2 service complete.
+car: 8189266 time: 2 completed exhaust replacement!
+car: 8189266 time: 2 started alternator replacement
+car: 6302936 time: 4 completed engine replacement!
+car: 7013083 time: 4 completed transmission replacement!
+car: 7013083 time: 4 started tire replacement
+car: 7569025 time: 4 started transmission replacement
+car: 8189266 time: 4 completed alternator replacement!
+car: 8189266 time: 4 started shock absorber replacement
+car: 7013083 time: 5 completed tire replacement!
+car: 8189266 time: 6 completed shock absorber replacement!
+car: 8189266 time: 6 service complete.
+car: 7569025 time: 8 completed transmission replacement!
+car: 7569025 time: 8 started flat tire repair
+car: 7871344 time: 8 started engine replacement
+car: 6302936 time: 8 started transmission replacement
+car: 7569025 time: 9 completed flat tire repair!
+car: 7569025 time: 9 service complete.
+car: 7871344 time: 12 completed engine replacement!
+car: 7871344 time: 12 service complete.
+car: 6302936 time: 12 completed transmission replacement!
+car: 6302936 time: 12 started brake repair
+car: 7013083 time: 12 started engine replacement
+car: 6302936 time: 14 completed brake repair!
+car: 6302936 time: 14 service complete.
+car: 7013083 time: 16 completed engine replacement!
+car: 7013083 time: 16 service complete.
+[braude@Cent ex3]$ 
+
